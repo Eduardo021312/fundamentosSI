@@ -1,1 +1,48 @@
+Atividade Fundamento de sistemas de informação 
+
+Data de entrega: 14/03/2025
+Nome: Eduardo Gabriel da Cunha
+
+   *  Sistemas de informação: oque é? e pra que serve?
+    Os sistemas de informação são conjuntos organizados de pessoas, tecnologia, processos e dados que, juntos, têm a função de coletar, processar, armazenar e distribuir informações para apoiar a tomada de decisões dentro de uma organização. Em resumo, são sistemas que ajudam as empresas a gerenciar, analisar e transformar dados em informações úteis para diversas finalidades.
+    Os sistemas de informação podem ser classificados em diversas categorias, de acordo com a função que desempenham dentro de uma organização. Cada tipo de sistema atende a necessidades específicas e tem um papel distinto na estrutura organizacional.
+
+   * Categorias de sistemas de informação
+
+   Sistemas de Processamento de Transações (SPT)
+ 
+   Os Sistemas de Processamento de Transação (SPTs) são sistemas de suporte para atividades do dia a dia da organização que servem o nível operacional como monitorando as atividades diárias ou normais de uma empresa, controle de estoque, contabilidade, sistemas de cobrança e pagamento de contas, folha de pagamento, atendimento a clientes, fluxo de materiais, entre outros. É o mais antigo tipo de sistema de informação e tem como principal objetivo responder a questões rotineiras e acompanhar o fluxo de transações através da organização. Os SPTs capacitam as organizações a executar suas atividades mais importantes de maneira mais eficiente. Uma transação consiste na troca de valores que afetam a lucratividade ou o ganho global de uma organização.
+Características dos SPTs
+•	Necessidade de processamento eficiente e rápido para lidar com grandes quantidades de entradas e saídas; alto grau de repetição no processamento;
+•	Computação simples (adição, subtração, classificação, multiplicação);
+•	Grande necessidade de armazenagem;
+•	Em caso de pane no SPT, causa grande e grave impacto negativo na organização, e seu funcionamento afeta um grande número de usuários.
+
+    Sistemas de Automação de Escritório (SAE)
+
+       Os Sistemas de Automação de Escritório (SAE) são ferramentas digitais que ajudam a tornar o trabalho do dia a dia no escritório mais rápido e organizado. Em vez de fazer tudo manualmente (como escrever documentos, enviar e-mails ou agendar compromissos), esses sistemas fazem o trabalho pesado por você, de forma automática ou mais fácil.
+
+ Exemplos de SAE que você usa no dia a dia:
+•	Microsoft Office 365: Inclui o Word, Excel, PowerPoint, Outlook – tudo que você precisa para escrever, calcular, fazer apresentações e organizar os e-mails.
+•	Google Workspace: A versão do Google para o escritório, com Google Docs, Sheets, Slides e Gmail, tudo funcionando online e de graça para quem tem conta Google.
+•	Trello: Ferramenta para organizar suas tarefas, como uma lista de afazeres visual. Você pode colocar tarefas para cada dia ou projeto e acompanhar o progresso.
+•	Slack: Para bater papo com sua equipe, compartilhar arquivos e fazer chamadas rápidas sem precisar usar o e-mail.
+Sistemas de Informação de Marketing (SIM)
+
+              Os Sistemas de Informação de Marketing (SIM) são ferramentas ou softwares usados pelas empresas para coletar, analisar e distribuir informações sobre o mercado, os consumidores e os concorrentes. O objetivo principal desses sistemas é ajudar os profissionais de marketing a tomar decisões mais informadas, baseadas em dados reais e atualizados, o que ajuda a melhorar as estratégias de marketing e aumentar as vendas.  
+O que o SIM pode ajudar a empresa a fazer?
+Compreender o Mercado e os Consumidores: O SIM ajuda a empresa a entender melhor quem são seus consumidores, quais são suas preferências, onde e como compram os produtos, além de identificar novas oportunidades de mercado.
+
+Segmentação de Mercado: Através da análise de dados, o SIM pode ajudar a dividir o mercado em segmentos, ou seja, grupos de consumidores com características e comportamentos semelhantes. Isso permite que a empresa crie campanhas mais direcionadas e eficazes para cada grupo.
+Acompanhamento da Concorrência: O SIM também monitora as ações da concorrência. Isso permite que a empresa entenda as estratégias dos concorrentes e se antecipe a mudanças no mercado, ajustando sua própria estratégia para se manter competitiva.
+Tomada de Decisões mais Rápidas e Precisas: Com as informações corretas e atualizadas em mãos, a empresa consegue tomar decisões mais rápidas e acertadas, sem precisar adivinhar ou se basear apenas em intuições.
+
+*  A Integração de sistemas de informação
+
+Por que a Integração de Sistemas é Importante?
+
+   A integração de sistemas é fundamental no mundo corporativo atual, onde as empresas geralmente utilizam diversos softwares e plataformas para gerir áreas diferentes, como finanças, vendas, estoque, marketing, recursos humanos, entre outras. Quando esses sistemas não se comunicam bem, há o risco de duplicação de dados, erros e ineficiência. A integração resolve esses problemas.
+
+
+
 
